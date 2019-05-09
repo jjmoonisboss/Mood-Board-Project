@@ -5,7 +5,7 @@ $('button').click(function(){
     } else if(input==="sad"){
     
         sadFace();
-    }else if(input==="angry"){
+    }else if(input==="angry" || input==="mad"){
       angryFace();
     }else{
      alert("Please enter sad,happy or angry!");   
