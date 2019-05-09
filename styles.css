@@ -36,7 +36,7 @@ h1 {
 }
 
 .happy{
-    background-image: url(http://www.stickpng.com/assets/images/587389d1f3a71010b5e8ef4a.png);
+    background-image: url(https://images.vexels.com/media/users/3/134593/isolated/preview/9d672e80b9e6ef680228c56151cd76b0-happy-doodles-emoji-emoticon-by-vexels.png);
 }
 .sad{
     background-image: url(https://images.vexels.com/media/users/3/134546/isolated/preview/b1b61276fef1c4a683aabaa53833c7ca-emoji-emoticon-sad-face-by-vexels.png);
@@ -44,7 +44,9 @@ h1 {
 .angry{
     background-image: url(https://images.vexels.com/media/users/3/134324/isolated/preview/8150f39716e08fd09e86dccca650d1bd-angry-face-emoji-by-vexels.png);
 }
-
+.sick{
+    background-image: url(https://sitejerk.com/images/sick-png-11.png);
+}
 #emote{
     
 }
