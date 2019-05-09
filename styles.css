@@ -1,0 +1,50 @@
+html, body {
+    height: 100vh;
+    width: 100vw;
+    font-family: Monaco;
+}
+p, input,button {
+    height: 5vh;
+    width: 50vw;
+    font-family: Monaco;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+.face{
+     width: 50vw;
+    height: 50vw;
+    margin-left: 25vw;
+    position: relative;
+    background-image : url(https://cdn3.volusion.com/nfqns.ekphw/v/vspfiles/photos/SL055F-3.jpg?1418639639);
+     background-size: cover;
+    background-position: center center;
+}
+
+.happy, .sad , .angry{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-size: contain;
+    display: none;
+}
+
+.happy{
+    background-image: url(http://www.stickpng.com/assets/images/587389d1f3a71010b5e8ef4a.png);
+}
+.sad{
+    background-image: url(https://images.vexels.com/media/users/3/134546/isolated/preview/b1b61276fef1c4a683aabaa53833c7ca-emoji-emoticon-sad-face-by-vexels.png);
+}
+.angry{
+    background-image: url(https://images.vexels.com/media/users/3/134324/isolated/preview/8150f39716e08fd09e86dccca650d1bd-angry-face-emoji-by-vexels.png);
+}
+
+#emote{
+    
+}
