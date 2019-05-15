@@ -1,6 +1,6 @@
 $('button').click(function(){
     var input = $('#emote').val();
-    if(input === "happy"){
+    if(input === "happy"|| input==="glad"){
         happyFace();
     } else if(input==="sad"){
     
