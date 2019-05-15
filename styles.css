@@ -25,7 +25,7 @@ h1 {
     background-position: center center;
 }
 
-.happy, .sad , .angry{
+.happy, .sad , .angry, .sick{
     position: absolute;
     top: 0;
     bottom: 0;
@@ -45,8 +45,5 @@ h1 {
     background-image: url(https://images.vexels.com/media/users/3/134324/isolated/preview/8150f39716e08fd09e86dccca650d1bd-angry-face-emoji-by-vexels.png);
 }
 .sick{
-    background-image: url(https://sitejerk.com/images/sick-png-11.png);
-}
-#emote{
-    
+    background-image: url(https://img.pngio.com/sick-emoji-emoticon-transparent-png-sick-png-face-512_512.png);
 }
